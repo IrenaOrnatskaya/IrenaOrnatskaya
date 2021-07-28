@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrenaOrnatskaya
-- 👀 I’m interested in Front-End Development
+- 👀 I’m in love with Front-End Development
 - 🌱 I’m currently learning JS
 - 📫 How to reach me ornatskayairena@gmail.com
 
