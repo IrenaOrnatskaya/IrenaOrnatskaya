@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IrenaOrnatskaya
-- 👀 I’m in love with Front-End Development
+- 👋 Hi, I’m Irena
+- 👀 And I’m in love with Front-End Development
 - 🌱 My skills: HTML, CSS, SASS, Bootstrap, Javascript, jQuery, RESTful Services and APIs, Responsive and Mobile Design, Cross-Browser Development 
 - 📫 How to reach me ornatskayairena@gmail.com
 - 🐱‍💻 My code samples ⬇️
